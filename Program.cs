@@ -4,19 +4,22 @@
     {
         static void Main(string[] args)
         {
-            bool exitLoop = false;
-
-            
+            //Start the main menu
+            //
         }
 
         private void MainMenu()
         {
+            //Show main menu header text
 
+            //Handle user input
+
+            //Exit main menu
         }
 
         private void ShowMainMenuText()
         {
-
+            //Present user with the navigation choises
         }
 
         private void MenuLoop()
